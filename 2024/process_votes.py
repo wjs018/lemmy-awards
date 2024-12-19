@@ -113,9 +113,9 @@ def process_file(infile, outfile):
 
 
 if __name__ == "__main__":
-    # anime_files = ["anime_votes.csv", "anime_results.csv"]
-    # manga_files = ["manga_votes.csv", "manga_results.csv"]
-    # ln_files = ["ln_votes.csv", "ln_results.csv"]
+    anime_files = ["anime_responses.csv", "anime_results.csv"]
+    manga_files = ["manga_responses.csv", "manga_results.csv"]
+    ln_files = ["ln_responses.csv", "ln_results.csv"]
 
     # Just run anime elections
     # all_files = [anime_files]
@@ -127,9 +127,7 @@ if __name__ == "__main__":
     # all_files = [ln_files]
 
     # Do all three mediums at one time
-    # all_files = [anime_files, manga_files, ln_files]
-
-    all_files = [["anime_votes_test.csv", "anime_reults_test.csv"]]
+    all_files = [anime_files, manga_files, ln_files]
 
     for medium in all_files:
         process_file(medium[0], medium[1])
