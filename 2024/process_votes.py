@@ -16,6 +16,13 @@ def parse_header_text(text):
         # Pluck out the nominee from between brackets
         nominee = text.split(" [")[1].split("]")[0]
 
+        # Clean up the text a little bit
+        if nominee.startswith(" - "):
+            nominee = nominee[3:]
+        if nominee.startswith(" &amp; "):
+            nominee = nominee[7:]
+        nominee = nominee.replace("&amp;", "&")
+
         return [category, nominee]
 
     return None
@@ -118,7 +125,7 @@ if __name__ == "__main__":
     ln_files = ["ln_responses.csv", "ln_results.csv"]
 
     # Just run anime elections
-    # all_files = [anime_files]
+    all_files = [anime_files]
 
     # Just run manga elections
     # all_files = [manga_files]
@@ -127,7 +134,7 @@ if __name__ == "__main__":
     # all_files = [ln_files]
 
     # Do all three mediums at one time
-    all_files = [anime_files, manga_files, ln_files]
+    # all_files = [anime_files, manga_files, ln_files]
 
     for medium in all_files:
         process_file(medium[0], medium[1])
