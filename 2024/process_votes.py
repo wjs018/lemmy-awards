@@ -13,6 +13,10 @@ def parse_header_text(text):
         # This is the category
         category = text.split(" [")[0]
 
+        # Clean up the text a little bit
+        if " - " in category:
+            category = category.split(" - ")[0]
+
         # Pluck out the nominee from between brackets
         nominee = text.split(" [")[1].split("]")[0]
 
@@ -125,13 +129,13 @@ if __name__ == "__main__":
     ln_files = ["ln_responses.csv", "ln_results.csv"]
 
     # Just run anime elections
-    all_files = [anime_files]
+    # all_files = [anime_files]
 
     # Just run manga elections
     # all_files = [manga_files]
 
     # Just run LN elections
-    # all_files = [ln_files]
+    all_files = [ln_files]
 
     # Do all three mediums at one time
     # all_files = [anime_files, manga_files, ln_files]
