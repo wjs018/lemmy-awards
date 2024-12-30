@@ -3,6 +3,7 @@
 import csv
 import starvote
 import pandas as pd
+import numpy as np
 
 from collections import defaultdict
 from contextlib import redirect_stdout
@@ -21,7 +22,7 @@ def parse_header_text(text):
         nominee = text.split(" [")[1].split("]")[0]
 
         # Clean up the text a little bit
-        if nominee.startswith(" - "):
+        if nominee[1] == "-":
             nominee = nominee[3:]
         if nominee.startswith(" &amp; "):
             nominee = nominee[7:]
@@ -32,7 +33,7 @@ def parse_header_text(text):
     return None
 
 
-def process_file(infile, outfile):
+def process_file(infile, outfile, adjust_blanks=False):
     """Parses input csv file and saves results to a new csv file."""
 
     # Initialize some variables to store stuff
@@ -73,8 +74,11 @@ def process_file(infile, outfile):
                     try:
                         scores[nom] = int(vote[idx])
                     except:  # noqa: E722
-                        # Blank responses get assigned 0
-                        scores[nom] = 0
+                        if adjust_blanks:
+                            scores[nom] = np.nan
+                        else:
+                            # Blank responses get assigned 0
+                            scores[nom] = 0
 
                 # Separate lists of ballots for each category, stored in a dict
                 all_ballots[award].append(scores)
@@ -92,6 +96,19 @@ def process_file(infile, outfile):
         with open(logfile, "w+") as f:
             with redirect_stdout(f):
                 ballots = all_ballots[key]
+
+                ballots_df = pd.DataFrame(columns=ballots[0].keys())
+
+                if adjust_blanks:
+                    for vote in ballots:
+                        vote_df = pd.DataFrame([vote])
+                        ballots_df = pd.concat([ballots_df, vote_df], ignore_index=True)
+
+                    overall_mean = int(np.nanmean(ballots_df))
+                    print("Mean of non-blank responses is {}".format(overall_mean))
+                    ballots_df = ballots_df.fillna(overall_mean)
+                    ballots = ballots_df.to_dict("records")
+
                 winners = starvote.election(starvote.star, ballots, verbosity=1)
                 winners_dict[key] = winners[0]
 
@@ -135,10 +152,10 @@ if __name__ == "__main__":
     # all_files = [manga_files]
 
     # Just run LN elections
-    all_files = [ln_files]
+    # all_files = [ln_files]
 
     # Do all three mediums at one time
-    # all_files = [anime_files, manga_files, ln_files]
+    all_files = [anime_files, manga_files, ln_files]
 
     for medium in all_files:
-        process_file(medium[0], medium[1])
+        process_file(medium[0], medium[1], adjust_blanks=False)
