@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 6 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   Rozemyne (Myne) from Ascendance of a Bookworm                                        -- 24 (average 4)     -- First place
+   Fran from Reincarnated as a Sword                                                    -- 17 (average 2+5/6) -- Second place
+   Mia Luna Tearmoon from Tearmoon Empire                                               -- 13 (average 2+1/6)
+   Chise from Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole -- 12 (average 2)
+   Mimori Touka  from Failure Frame                                                     -- 10 (average 1+2/3)
+ Rozemyne (Myne) from Ascendance of a Bookworm and Fran from Reincarnated as a Sword advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   Rozemyne (Myne) from Ascendance of a Bookworm -- 4 -- First place
+   Fran from Reincarnated as a Sword             -- 1
+   No Preference                                 -- 1
+ Rozemyne (Myne) from Ascendance of a Bookworm wins.
+
+[STAR Voting: Winner]
+ Rozemyne (Myne) from Ascendance of a Bookworm

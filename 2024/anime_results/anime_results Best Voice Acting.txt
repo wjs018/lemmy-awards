@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 92 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   Atsumi Tanezaki as Frieren in Frieren: Beyond Journey's End (Japanese) -- 175 (average 1+83/92) -- First place
+   Saori Hayami as Rin Nanakura in Pseudo Harem (Japanese)                -- 113 (average 1+21/92) -- Second place
+   Fuuka Izumi as Utena Hiiragi in Gushing Over Magical Girls (Japanese)  --  89 (average 89/92)
+   Aleks Le as Sung Jinwoo in Solo Levling (English)                      --  82 (average 41/46)
+   Fairouz Ai as Yumiella Dolkness in Villainess Level 99 (Japanese)      --  69 (average  3/4)
+ Atsumi Tanezaki as Frieren in Frieren: Beyond Journey's End (Japanese) and Saori Hayami as Rin Nanakura in Pseudo Harem (Japanese) advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   Atsumi Tanezaki as Frieren in Frieren: Beyond Journey's End (Japanese) -- 29 -- First place
+   Saori Hayami as Rin Nanakura in Pseudo Harem (Japanese)                -- 14
+   No Preference                                                          -- 49
+ Atsumi Tanezaki as Frieren in Frieren: Beyond Journey's End (Japanese) wins.
+
+[STAR Voting: Winner]
+ Atsumi Tanezaki as Frieren in Frieren: Beyond Journey's End (Japanese)

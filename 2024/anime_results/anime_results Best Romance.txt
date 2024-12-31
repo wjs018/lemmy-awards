@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 92 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   Spice and Wolf: MERCHANT MEETS THE WISE WOLF / Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF                       -- 188 (average 2+ 1/23) -- First place
+   Makeine: Too Many Losing Heroines! / Make Heroine ga Oosugiru!                                                           -- 150 (average 1+29/46) -- Second place
+   The Dangers in My Heart Season 2 / Boku no Kokoro no Yabai Yatsu 2nd Season                                              -- 112 (average 1+ 5/23)
+   Pseudo Harem / Giji Harem                                                                                                -- 108 (average 1+ 4/23)
+   Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! / 30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii --  62 (average 31/46)
+ Spice and Wolf: MERCHANT MEETS THE WISE WOLF / Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF and Makeine: Too Many Losing Heroines! / Make Heroine ga Oosugiru! advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   Spice and Wolf: MERCHANT MEETS THE WISE WOLF / Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF -- 30 -- First place
+   Makeine: Too Many Losing Heroines! / Make Heroine ga Oosugiru!                                     -- 21
+   No Preference                                                                                      -- 41
+ Spice and Wolf: MERCHANT MEETS THE WISE WOLF / Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF wins.
+
+[STAR Voting: Winner]
+ Spice and Wolf: MERCHANT MEETS THE WISE WOLF / Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF

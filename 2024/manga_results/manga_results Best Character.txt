@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 23 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   Frieren from Frieren: Beyond Journey's End / Sousou no Frieren                                                         -- 69 (average 3)       -- First place
+   Maomao from The Apothecary Diaries                                                                                     -- 57 (average 2+11/23) -- Second place
+   Ruri Aoki from RuriDragon                                                                                              -- 45 (average 1+22/23)
+   Cid Kagenou from The Eminence in Shadow / Kage no Jitsuryokusha ni Naritakute!                                         -- 39 (average 1+16/23)
+   Urumin (Moegi Urushibara) from The Useless Idol and Her Only Fan in the World / Damedol to Sekai ni Hitori Dake no Fan -- 27 (average 1+ 4/23)
+ Frieren from Frieren: Beyond Journey's End / Sousou no Frieren and Maomao from The Apothecary Diaries advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   Frieren from Frieren: Beyond Journey's End / Sousou no Frieren -- 10 -- First place
+   Maomao from The Apothecary Diaries                             --  5
+   No Preference                                                  --  8
+ Frieren from Frieren: Beyond Journey's End / Sousou no Frieren wins.
+
+[STAR Voting: Winner]
+ Frieren from Frieren: Beyond Journey's End / Sousou no Frieren

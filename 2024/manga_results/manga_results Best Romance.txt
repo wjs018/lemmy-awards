@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 23 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   Don't Toy With Me, Miss Nagatoro! / Ijiranaide, Nagatoro-san            -- 43 (average 1+20/23) -- First place
+   Journey Home After School / Houkago Kitaku Biyori                       -- 34 (average 1+11/23) -- Second place
+   The Girl I Like Forgot Her Glasses / Suki na Ko ga Megane wo Wasureta   -- 28 (average 1+ 5/23)
+   The 100 Girlfriends Who Really, Really, Really, Really, Really Love You -- 27 (average 1+ 4/23)
+   The Fragrant Flower Blooms with Dignity / Kaoru Hana wa Rin to Saku     -- 27 (average 1+ 4/23)
+ Don't Toy With Me, Miss Nagatoro! / Ijiranaide, Nagatoro-san and Journey Home After School / Houkago Kitaku Biyori advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   Don't Toy With Me, Miss Nagatoro! / Ijiranaide, Nagatoro-san --  7 -- First place
+   Journey Home After School / Houkago Kitaku Biyori            --  6
+   No Preference                                                -- 10
+ Don't Toy With Me, Miss Nagatoro! / Ijiranaide, Nagatoro-san wins.
+
+[STAR Voting: Winner]
+ Don't Toy With Me, Miss Nagatoro! / Ijiranaide, Nagatoro-san

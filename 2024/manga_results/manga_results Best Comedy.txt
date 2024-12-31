@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 23 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   The Eminence in Shadow / Kage no Jitsuryokusha ni Naritakute!                                                                                                                                                                       -- 52 (average 2+ 6/23) -- First place
+   Turns Out My Dick Was a Cute Girl / Ore no Kokan wa Bishoujo Datta no ka                                                                                                                                                            -- 39 (average 1+16/23) -- Second place
+   The Gals Who Always Say Insane Things: My Daily Life at a Private Paranormal High School / Shiretto Sugee Koto Itteru Gal. - Shiritsu Paranomaru Koukou no Nichijou                                                                 -- 37 (average 1+14/23)
+   The 100 Girlfriends Who Really, Really, Really, Really, Really Love You                                                                                                                                                             -- 33 (average 1+10/23)
+   IseGure: After Constantly Being Used as a Foil for OP Isekai Protagonists, The Elite Knight Has Finally Had It / IseGure - Isekai Cheat Musou Ore TUEEE-kei Ikiri Tenseisha ni Kamaseinu ni sare Tsuzuketa Elite Kishi, Chou Gureru -- 28 (average 1+ 5/23)
+ The Eminence in Shadow / Kage no Jitsuryokusha ni Naritakute! and Turns Out My Dick Was a Cute Girl / Ore no Kokan wa Bishoujo Datta no ka advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   The Eminence in Shadow / Kage no Jitsuryokusha ni Naritakute!            -- 11 -- First place
+   Turns Out My Dick Was a Cute Girl / Ore no Kokan wa Bishoujo Datta no ka --  6
+   No Preference                                                            --  6
+ The Eminence in Shadow / Kage no Jitsuryokusha ni Naritakute! wins.
+
+[STAR Voting: Winner]
+ The Eminence in Shadow / Kage no Jitsuryokusha ni Naritakute!

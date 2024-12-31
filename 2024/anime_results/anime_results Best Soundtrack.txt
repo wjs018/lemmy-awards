@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 92 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   Frieren: Beyond Journey’s End / Sousou no Frieren -- 275 (average 2+91/92) -- First place
+   Oshi no Ko Season 2                               -- 153 (average 1+61/92) -- Second place
+   Kaiju No.8 / Kaijuu 8-gou                         -- 130 (average 1+19/46)
+   NieR:Automata Ver1.1a Season 2                    -- 122 (average 1+15/46)
+   MF Ghost Season 2                                 --  69 (average 3/4)
+ Frieren: Beyond Journey’s End / Sousou no Frieren and Oshi no Ko Season 2 advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   Frieren: Beyond Journey’s End / Sousou no Frieren -- 43 -- First place
+   Oshi no Ko Season 2                               -- 11
+   No Preference                                     -- 38
+ Frieren: Beyond Journey’s End / Sousou no Frieren wins.
+
+[STAR Voting: Winner]
+ Frieren: Beyond Journey’s End / Sousou no Frieren

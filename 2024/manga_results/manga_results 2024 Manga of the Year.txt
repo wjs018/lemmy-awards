@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 23 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   RuriDragon                                                                   -- 59 (average 2+13/23) -- First place
+   DAN DA DAN                                                                   -- 55 (average 2+ 9/23) -- Second place
+   Love Bullet                                                                  -- 46 (average 2)
+   The Demon King's Daughter Is Too Kind!! / Maou no Musume wa Yasashi Sugiru!! -- 34 (average 1+11/23)
+   Kagurabachi                                                                  -- 20 (average 20/23)
+ RuriDragon and DAN DA DAN advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   DAN DA DAN    -- 10 -- First place
+   RuriDragon    --  7
+   No Preference --  6
+ DAN DA DAN wins.
+
+[STAR Voting: Winner]
+ DAN DA DAN

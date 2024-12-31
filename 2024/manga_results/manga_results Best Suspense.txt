@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 23 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   Mieruko-chan                                                        -- 42 (average 1+19/23) -- First place
+   Oshi no Ko                                                          -- 34 (average 1+11/23) -- Second place
+   MAD                                                                 -- 23 (average 1)
+   Miyu-chan Will Always Be Your Friend / Miyu-chan wa Zutto Tomodachi -- 20 (average 20/23)
+   The Summer Hikaru Died / Hikaru ga Shinda Natsu                     -- 15 (average 15/23)
+ Mieruko-chan and Oshi no Ko advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   Mieruko-chan  --  7 -- First place
+   Oshi no Ko    --  6
+   No Preference -- 10
+ Mieruko-chan wins.
+
+[STAR Voting: Winner]
+ Mieruko-chan

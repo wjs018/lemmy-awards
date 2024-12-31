@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 23 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   One Punch Man                                           -- 61 (average 2+15/23) -- First place
+   Witch Hat Atelier                                       -- 59 (average 2+13/23) -- Second place
+   Mieruko-chan                                            -- 45 (average 1+22/23)
+   Akebi-chan's Sailor Uniform / Akebi-chan no Sailor Fuku -- 34 (average 1+11/23)
+   Fate/type Redline                                       -- 29 (average 1+ 6/23)
+ One Punch Man and Witch Hat Atelier advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   One Punch Man     -- 9 -- First place
+   Witch Hat Atelier -- 8
+   No Preference     -- 6
+ One Punch Man wins.
+
+[STAR Voting: Winner]
+ One Punch Man

@@ -25,3 +25,5 @@ There will be a large number of output files. Summarizing them:
 - `anime_results.csv`, `manga_results.csv`, `ln_results.csv` - These are simply listing the winners in each category for the three mediums.
 - `{medium}_results {award category}.txt` - One of these files is generated for each medium/category and it is a recording of the verbose output of the `starvote` election results. This can be read if you want to see the runner-up for instance.
 - `{medium}_results {award category} ballots.csv` - This is a simplified `.csv` file that contains all of the submitted ballots for the medium/category. Each row is a vote and each column signifies a nominee for the category (listed in the header row). The cell contents is the score that the voter gave to that nominee in the category.
+
+I have included all the output files for you in the subfolders of 2024 for your convenience. Please reach out to me if you have any questions.

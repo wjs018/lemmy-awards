@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 23 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   The Apothecary Diaries / Kusuriya no Hitorigoto -- 62 (average 2+16/23) -- First place
+   Vinland Saga                                    -- 38 (average 1+15/23) -- Second place
+   Love Bullet                                     -- 34 (average 1+11/23)
+   Villains Are Destined to Die                    -- 26 (average 1+ 3/23)
+   Tales Of Akane / Akane-banashi                  -- 19 (average 19/23)
+ The Apothecary Diaries / Kusuriya no Hitorigoto and Vinland Saga advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   The Apothecary Diaries / Kusuriya no Hitorigoto -- 10 -- First place
+   Vinland Saga                                    --  3
+   No Preference                                   -- 10
+ The Apothecary Diaries / Kusuriya no Hitorigoto wins.
+
+[STAR Voting: Winner]
+ The Apothecary Diaries / Kusuriya no Hitorigoto

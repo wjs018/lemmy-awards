@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 92 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   Frieren: Beyond Journey’s End / Sousou no Frieren                     -- 286 (average 3+ 5/46) -- First place
+   Jellyfish Can’t Swim in the Night / Yoru no Kurage wa Oyogenai        -- 107 (average 1+15/92) -- Second place
+   Laid-Back Camp Season 3 / Yuru Camp△ SEASON 3                         -- 105 (average 1+13/92)
+   'Tis Time for "Torture," Princess / Hime-sama, "Goumon" no Jikan desu --  94 (average 1+ 1/46)
+   Tonari no Yokai-san                                                   --  64 (average 16/23)
+ Frieren: Beyond Journey’s End / Sousou no Frieren and Jellyfish Can’t Swim in the Night / Yoru no Kurage wa Oyogenai advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   Frieren: Beyond Journey’s End / Sousou no Frieren              -- 58 -- First place
+   Jellyfish Can’t Swim in the Night / Yoru no Kurage wa Oyogenai -- 15
+   No Preference                                                  -- 19
+ Frieren: Beyond Journey’s End / Sousou no Frieren wins.
+
+[STAR Voting: Winner]
+ Frieren: Beyond Journey’s End / Sousou no Frieren

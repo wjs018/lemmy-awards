@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 92 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   Dan Da Dan                                                                   -- 301 (average 3+25/92) -- First place
+   Solo Levling / Ore dake Level Up na Ken                                      -- 191 (average 2+ 7/92) -- Second place
+   Kaiju No. 8 / Kaijuu 8-gou                                                   -- 180 (average 1+22/23)
+   Shangri-La Frontier (both Season 1 and Season 2 have aired episodes in 2024) -- 133 (average 1+41/92)
+   NieR:Automata Ver1.1a Season 2                                               -- 123 (average 1+31/92)
+ Dan Da Dan and Solo Levling / Ore dake Level Up na Ken advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   Dan Da Dan                              -- 55 -- First place
+   Solo Levling / Ore dake Level Up na Ken -- 12
+   No Preference                           -- 25
+ Dan Da Dan wins.
+
+[STAR Voting: Winner]
+ Dan Da Dan

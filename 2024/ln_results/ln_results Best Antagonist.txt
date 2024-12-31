@@ -1,0 +1,35 @@
+[STAR Voting]
+ Tabulating 6 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   Erwaermen from Ascendance of a Bookworm -- 22 (average 3+2/3) -- First place
+   Georgine from Ascendance of a Bookworm  -- 18 (average 3)     -- Tied for second place
+   Gervasio from Ascendance of a Bookworm  -- 18 (average 3)     -- Tied for second place
+   Ferdinand from Ascendance of a Bookworm -- 14 (average 2+1/3)
+   Goddess Vicius from Failure Frame       --  4 (average 2/3)
+ Erwaermen from Ascendance of a Bookworm advances, but there's a two-way tie for second.
+
+[STAR Voting: Scoring Round: First tiebreaker]
+ The candidate preferred in the most head-to-head matchups advances.
+   Georgine from Ascendance of a Bookworm -- 1 -- Tied for second place
+   Gervasio from Ascendance of a Bookworm -- 1 -- Tied for second place
+   No Preference                          -- 4
+ There's still a two-way tie for second.
+
+[STAR Voting: Scoring Round: Second tiebreaker]
+ The candidate with the most votes of score 5 advances.
+   Gervasio from Ascendance of a Bookworm -- 3 -- Second place
+   Georgine from Ascendance of a Bookworm -- 2
+ Erwaermen from Ascendance of a Bookworm and Gervasio from Ascendance of a Bookworm advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   Gervasio from Ascendance of a Bookworm  -- 3 -- First place
+   Erwaermen from Ascendance of a Bookworm -- 2
+   No Preference                           -- 1
+ Gervasio from Ascendance of a Bookworm wins.
+
+[STAR Voting: Winner]
+ Gervasio from Ascendance of a Bookworm

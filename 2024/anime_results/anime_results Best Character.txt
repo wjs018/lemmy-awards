@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 92 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   Frieren from Frieren: Beyond Journey's End / Sousou no Frieren                  -- 295 (average 3+19/92) -- First place
+   Maomao from The Apothecary Diaries / Kusuriya no Hitorigoto                     -- 207 (average 2+ 1/4)  -- Second place
+   Anna Yanami from Makeine: Too Many Losing Heroines! / Make Heroine ga Oosugiru! -- 120 (average 1+ 7/23)
+   Utena Hiiragi from Gushing Over Magical Girls / Mahou Shoujo ni Akogarete       -- 111 (average 1+19/92)
+   Bravern from Brave Bang Bravern! / Yuuki Bakuhatsu Bang Bravern                 --  79 (average 79/92)
+ Frieren from Frieren: Beyond Journey's End / Sousou no Frieren and Maomao from The Apothecary Diaries / Kusuriya no Hitorigoto advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   Frieren from Frieren: Beyond Journey's End / Sousou no Frieren -- 37 -- First place
+   Maomao from The Apothecary Diaries / Kusuriya no Hitorigoto    -- 20
+   No Preference                                                  -- 35
+ Frieren from Frieren: Beyond Journey's End / Sousou no Frieren wins.
+
+[STAR Voting: Winner]
+ Frieren from Frieren: Beyond Journey's End / Sousou no Frieren

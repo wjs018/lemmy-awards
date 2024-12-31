@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 92 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   Frieren: Beyond Journey’s End / Sousou no Frieren              -- 320 (average 3+11/23) -- First place
+   Dan Da Dan                                                     -- 295 (average 3+19/92) -- Second place
+   Delicous in Dungeon / Dungeon Meshi                            -- 270 (average 2+43/46)
+   Oshi no Ko Season 2                                            -- 176 (average 1+21/23)
+   Makeine: Too Many Losing Heroines! / Make Heroine ga Oosugiru! -- 132 (average 1+10/23)
+ Frieren: Beyond Journey’s End / Sousou no Frieren and Dan Da Dan advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   Frieren: Beyond Journey’s End / Sousou no Frieren -- 37 -- First place
+   Dan Da Dan                                        -- 29
+   No Preference                                     -- 26
+ Frieren: Beyond Journey’s End / Sousou no Frieren wins.
+
+[STAR Voting: Winner]
+ Frieren: Beyond Journey’s End / Sousou no Frieren

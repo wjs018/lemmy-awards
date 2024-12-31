@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 92 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   Delicious in Dungeon / Dungeon Meshi                    -- 300 (average 3+ 6/23) -- First place
+   Dan Da Dan                                              -- 275 (average 2+91/92) -- Second place
+   Konosuba Season 3                                       -- 238 (average 2+27/46)
+   My Deer Friend Nokotan / Shikanoko Nokonoko Koshitantan -- 158 (average 1+33/46)
+   Brave Bang Bravern! / Yuuki Bakuhatsu Bang Bravern      --  78 (average 39/46)
+ Delicious in Dungeon / Dungeon Meshi and Dan Da Dan advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   Delicious in Dungeon / Dungeon Meshi -- 34 -- First place
+   Dan Da Dan                           -- 32
+   No Preference                        -- 26
+ Delicious in Dungeon / Dungeon Meshi wins.
+
+[STAR Voting: Winner]
+ Delicious in Dungeon / Dungeon Meshi

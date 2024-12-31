@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 23 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   Chainsaw Man                                                                                                                                                                   -- 58 (average 2+12/23) -- First place
+   Chained Soldier / Mato Seihei no Slave                                                                                                                                         -- 37 (average 1+14/23) -- Second place
+   I Got a New Skill Every Time I Was Exiled, and After 100 Different Worlds, I Was Unmatched / Tsuihousareru Tabi ni Skill o Te ni Ireta Ore ga, 100 no Isekai de 2-shuume Musou -- 34 (average 1+11/23)
+   Omniscient Reader's Viewpoint                                                                                                                                                  -- 32 (average 1+ 9/23)
+   Kagurabachi                                                                                                                                                                    -- 17 (average 17/23)
+ Chainsaw Man and Chained Soldier / Mato Seihei no Slave advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   Chainsaw Man                           -- 9 -- First place
+   Chained Soldier / Mato Seihei no Slave -- 6
+   No Preference                          -- 8
+ Chainsaw Man wins.
+
+[STAR Voting: Winner]
+ Chainsaw Man

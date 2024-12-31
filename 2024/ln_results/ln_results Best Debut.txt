@@ -1,0 +1,26 @@
+[STAR Voting]
+ Tabulating 6 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   Exp Is Golden: Volume 1                                                                    -- 10 (average 1+2/3) -- First place
+   Zilbagias the Demon Prince: How the Seventh Prince Brought Down the Kingdom Volume 1       --  8 (average 1+1/3) -- Second place
+   Soup Forest: The Story of the Woman Who Speaks with Animals and the Former Mercenary Vol.1 --  7 (average 1+1/6)
+ Exp Is Golden: Volume 1 and Zilbagias the Demon Prince: How the Seventh Prince Brought Down the Kingdom Volume 1 advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   Exp Is Golden: Volume 1                                                              -- 1 -- Tied for first place
+   Zilbagias the Demon Prince: How the Seventh Prince Brought Down the Kingdom Volume 1 -- 1 -- Tied for first place
+   No Preference                                                                        -- 4
+ There's a two-way tie for first.
+
+[STAR Voting: Automatic Runoff Round: First tiebreaker]
+ The highest-scoring candidate wins.
+   Exp Is Golden: Volume 1                                                              -- 10 -- First place
+   Zilbagias the Demon Prince: How the Seventh Prince Brought Down the Kingdom Volume 1 --  8
+ Exp Is Golden: Volume 1 wins.
+
+[STAR Voting: Winner]
+ Exp Is Golden: Volume 1

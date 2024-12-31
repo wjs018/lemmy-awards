@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 92 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   The Apothecary Diaries / Kusuriya no Hitorigoto                       -- 221 (average 2+37/92) -- First place
+   Oshi no Ko Season 2                                                   -- 164 (average 1+18/23) -- Second place
+   Orb: On the Movements of the Earth / Chi.: Chikyuu no Undou ni Tsuite -- 110 (average 1+ 9/46)
+   SHOSHIMIN: How to Become Ordinary                                     --  86 (average 43/46)
+   BLUE LOCK Season 2                                                    --  57 (average 57/92)
+ The Apothecary Diaries / Kusuriya no Hitorigoto and Oshi no Ko Season 2 advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   The Apothecary Diaries / Kusuriya no Hitorigoto -- 31 -- First place
+   Oshi no Ko Season 2                             -- 17
+   No Preference                                   -- 44
+ The Apothecary Diaries / Kusuriya no Hitorigoto wins.
+
+[STAR Voting: Winner]
+ The Apothecary Diaries / Kusuriya no Hitorigoto

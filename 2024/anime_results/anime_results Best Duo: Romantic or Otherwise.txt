@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 92 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   Momo Ayase & Ken Takakura (Okarun) from Dan Da Dan                       -- 291 (average 3+15/92) -- First place
+   Holo & Kraft Lawrence from Spice and Wolf: MERCHANT MEETS THE WISE WOLF  -- 183 (average 1+91/92) -- Second place
+   2B & 9S from NieR:Automata Ver1.1a Season 2                              -- 122 (average 1+15/46)
+   Ayumu Fujino & Kyomoto from Look Back                                    --  89 (average 89/92)
+   Bravern & Isami Ao from Brave Bang Bravern!                              --  69 (average  3/4)
+ Momo Ayase & Ken Takakura (Okarun) from Dan Da Dan and Holo & Kraft Lawrence from Spice and Wolf: MERCHANT MEETS THE WISE WOLF  advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   Momo Ayase & Ken Takakura (Okarun) from Dan Da Dan                       -- 50 -- First place
+   Holo & Kraft Lawrence from Spice and Wolf: MERCHANT MEETS THE WISE WOLF  -- 19
+   No Preference                                                            -- 23
+ Momo Ayase & Ken Takakura (Okarun) from Dan Da Dan wins.
+
+[STAR Voting: Winner]
+ Momo Ayase & Ken Takakura (Okarun) from Dan Da Dan

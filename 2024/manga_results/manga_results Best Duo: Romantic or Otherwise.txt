@@ -1,0 +1,28 @@
+[STAR Voting]
+ Tabulating 23 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   Hayase Nagatoro & Naoto Hachiouji from Don't Toy With Me, Miss Nagatoro! / Ijiranaide, Nagatoro-san                                                                                                  -- 53 (average 2+ 7/23) -- First place
+   Nazuna Nanakusa & Kou Yamori from Call of the Night / Yofukashi no Uta                                                                                                                               -- 49 (average 2+ 3/23) -- Second place
+   Mirai Misato & Shouko Taira from The Gals Who Always Say Insane Things: My Daily Life at a Private Paranormal High School / Shiretto Sugee Koto Itteru Gal. - Shiritsu Paranomaru Koukou no Nichijou -- 37 (average 1+14/23)
+   Hakari Hanazono & Karane Inda from The 100 Girlfriends Who Really, Really, Really, Really, Really Love You                                                                                           -- 36 (average 1+13/23)
+   Chinatsu Kano & Taiki Inomata from Blue Box / Ao no Hako                                                                                                                                             -- 16 (average 16/23)
+ Hayase Nagatoro & Naoto Hachiouji from Don't Toy With Me, Miss Nagatoro! / Ijiranaide, Nagatoro-san and Nazuna Nanakusa & Kou Yamori from Call of the Night / Yofukashi no Uta advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   Hayase Nagatoro & Naoto Hachiouji from Don't Toy With Me, Miss Nagatoro! / Ijiranaide, Nagatoro-san --  5 -- Tied for first place
+   Nazuna Nanakusa & Kou Yamori from Call of the Night / Yofukashi no Uta                              --  5 -- Tied for first place
+   No Preference                                                                                       -- 13
+ There's a two-way tie for first.
+
+[STAR Voting: Automatic Runoff Round: First tiebreaker]
+ The highest-scoring candidate wins.
+   Hayase Nagatoro & Naoto Hachiouji from Don't Toy With Me, Miss Nagatoro! / Ijiranaide, Nagatoro-san -- 53 -- First place
+   Nazuna Nanakusa & Kou Yamori from Call of the Night / Yofukashi no Uta                              -- 49
+ Hayase Nagatoro & Naoto Hachiouji from Don't Toy With Me, Miss Nagatoro! / Ijiranaide, Nagatoro-san wins.
+
+[STAR Voting: Winner]
+ Hayase Nagatoro & Naoto Hachiouji from Don't Toy With Me, Miss Nagatoro! / Ijiranaide, Nagatoro-san

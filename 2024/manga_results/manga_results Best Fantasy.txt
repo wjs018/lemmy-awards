@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 23 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   Frieren: Beyond Journey's End / Sousou no Frieren                                      -- 75 (average 3+ 6/23) -- First place
+   Witch Hat Atelier                                                                      -- 55 (average 2+ 9/23) -- Second place
+   Made in Abyss                                                                          -- 49 (average 2+ 3/23)
+   Speedrunner Cannot Return from the Game World / RTA Sousha wa Game Sekai kara Kaerenai -- 33 (average 1+10/23)
+   Welcome to Japan, Ms. Elf! / Nihon e Youkoso Elf-san                                   -- 30 (average 1+ 7/23)
+ Frieren: Beyond Journey's End / Sousou no Frieren and Witch Hat Atelier advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   Frieren: Beyond Journey's End / Sousou no Frieren --  8 -- First place
+   Witch Hat Atelier                                 --  3
+   No Preference                                     -- 12
+ Frieren: Beyond Journey's End / Sousou no Frieren wins.
+
+[STAR Voting: Winner]
+ Frieren: Beyond Journey's End / Sousou no Frieren

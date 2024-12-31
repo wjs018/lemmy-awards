@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 6 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   Fran & Teacher from Reincarnated as a Sword                    -- 17 (average 2+5/6) -- First place
+   Karion & Urion from Death March to the Parallel World Rhapsody -- 15 (average 2+1/2) -- Second place
+   Leon Fou Bartfort & Luxion from Trapped in a Dating Sim        -- 11 (average 1+5/6)
+   Ai Fa & Asuta from Cooking with Wild Game                      -- 10 (average 1+2/3)
+   Touka Mimori & Seras Ashrain from Failure Frame                --  4 (average 2/3)
+ Fran & Teacher from Reincarnated as a Sword and Karion & Urion from Death March to the Parallel World Rhapsody advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   Karion & Urion from Death March to the Parallel World Rhapsody -- 3 -- First place
+   Fran & Teacher from Reincarnated as a Sword                    -- 2
+   No Preference                                                  -- 1
+ Karion & Urion from Death March to the Parallel World Rhapsody wins.
+
+[STAR Voting: Winner]
+ Karion & Urion from Death March to the Parallel World Rhapsody

@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 92 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   Frieren: Beyond Journey’s End / Sousou no Frieren  -- 349 (average 3+73/92) -- First place
+   Delicious in Dungeon / Dungeon Meshi               -- 311 (average 3+35/92) -- Second place
+   Dan Da Dan                                         -- 277 (average 3+ 1/92)
+   Oshi no Ko Season 2                                -- 162 (average 1+35/46)
+   Brave Bang Bravern! / Yuuki Bakuhatsu Bang Bravern --  75 (average 75/92)
+ Frieren: Beyond Journey’s End / Sousou no Frieren and Delicious in Dungeon / Dungeon Meshi advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   Frieren: Beyond Journey’s End / Sousou no Frieren -- 44 -- First place
+   Delicious in Dungeon / Dungeon Meshi              -- 29
+   No Preference                                     -- 19
+ Frieren: Beyond Journey’s End / Sousou no Frieren wins.
+
+[STAR Voting: Winner]
+ Frieren: Beyond Journey’s End / Sousou no Frieren

@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 92 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   "Otonoke" by Creepy Nuts for the Dan Da Dan OP                -- 261 (average 2+77/92) -- First place
+   "Shika-iro Days" as the My Deer Friend Nokotan OP             -- 146 (average 1+27/46) -- Second place
+   "Abyss" by YUNGBLUD as the Kaiju No. 8 OP                     -- 115 (average 1+ 1/4)
+   "Rouge" by YU-KA as the Metallic Rouge OP                     --  77 (average 77/92)
+   "Baban to Suisan! Bang Bravern" as the Brave Bang Bravern! OP --  76 (average 19/23)
+ "Otonoke" by Creepy Nuts for the Dan Da Dan OP and "Shika-iro Days" as the My Deer Friend Nokotan OP advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   "Otonoke" by Creepy Nuts for the Dan Da Dan OP    -- 47 -- First place
+   "Shika-iro Days" as the My Deer Friend Nokotan OP -- 15
+   No Preference                                     -- 30
+ "Otonoke" by Creepy Nuts for the Dan Da Dan OP wins.
+
+[STAR Voting: Winner]
+ "Otonoke" by Creepy Nuts for the Dan Da Dan OP

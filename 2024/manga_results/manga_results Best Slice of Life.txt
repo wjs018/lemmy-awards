@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 23 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   RuriDragon                                                                   -- 57 (average 2+11/23) -- First place
+   SPY×FAMILY                                                                   -- 47 (average 2+ 1/23) -- Second place
+   Tsumiki Ogami & the Strange Everyday Life / Ogami Tsumiki to Kinichijou      -- 45 (average 1+22/23)
+   The Demon King's Daughter Is Too Kind!! / Maou no Musume wa Yasashi Sugiru!! -- 36 (average 1+13/23)
+   Gal Can't Be Kind to Otaku!? / Otaku ni Yasashii Gal wa Inai!?               -- 35 (average 1+12/23)
+ RuriDragon and SPY×FAMILY advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   RuriDragon    -- 9 -- First place
+   SPY×FAMILY    -- 6
+   No Preference -- 8
+ RuriDragon wins.
+
+[STAR Voting: Winner]
+ RuriDragon

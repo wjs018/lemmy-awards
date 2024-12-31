@@ -1,0 +1,22 @@
+[STAR Voting]
+ Tabulating 92 ballots.
+ Maximum score is 5.
+
+[STAR Voting: Scoring Round]
+ The two highest-scoring candidates advance to the next round.
+   Frieren: Beyond Journey's End / Sousou no Frieren                                                          -- 349 (average 3+73/92) -- First place
+   Delicious in Dungeon / Dungeon Meshi                                                                       -- 326 (average 3+25/46) -- Second place
+   Mushoku Tensei: Jobless Reincarnation Season 2 Part 2 / Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2 -- 191 (average 2+ 7/92)
+   Konosuba Season 3                                                                                          -- 184 (average 2)
+   Re:ZERO -Starting Life in Another World- Season 3 / Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season       -- 148 (average 1+14/23)
+ Frieren: Beyond Journey's End / Sousou no Frieren and Delicious in Dungeon / Dungeon Meshi advance.
+
+[STAR Voting: Automatic Runoff Round]
+ The candidate preferred in the most head-to-head matchups wins.
+   Frieren: Beyond Journey's End / Sousou no Frieren -- 44 -- First place
+   Delicious in Dungeon / Dungeon Meshi              -- 27
+   No Preference                                     -- 21
+ Frieren: Beyond Journey's End / Sousou no Frieren wins.
+
+[STAR Voting: Winner]
+ Frieren: Beyond Journey's End / Sousou no Frieren
